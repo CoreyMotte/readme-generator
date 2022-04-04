@@ -1,6 +1,6 @@
-# README Generator
+# Test
   ## Badges
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MS-PL](https://img.shields.io/badge/License-MS--PL-lightgrey.svg)](https://opensource.org/licenses/MS-PL)
   ## Table of Contents
   * [License](#license)
   * [Description](#description)
@@ -10,20 +10,20 @@
   * [Tests](#tests)
   * [Questions?](#questions)
   ## License
-  Read more about MIT here:
-  [MIT](https://opensource.org/licenses/MIT)
+  Read more about Microsoft Public License here:
+  [Microsoft Public License](https://opensource.org/licenses/MS-PL)
   ## Description
-  A command-line readme generator that takes user input and returns a high-quality README file.
+  test
   ## Installation
-  To install, clone the repository.
+  test
   ## Usage
-  Execute index.js with Node.
+  test
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
-  No requirements for contribution.
+  test
   ## Tests
-  No test functions.
+  test
   ## Questions?
   ### Reach me here: 
   [coreymotte](https://github.com/coreymotte)  
-  coreydavidmotte@gmail.com
+  test@test
